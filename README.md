@@ -2,6 +2,17 @@
 
 Arquitectura simple de Splunk.
 
+## Partes de la arquitectura
+
++ Splunk Enterprise, modo standalone
++ Splunk Universal Forwarder
+
+Ambas partes ya están conectadas y pre-configuradas para:
+
++ Indexar datos por parte de la instancia de Splunk Enterprise.
++ Enviar datos al indexador por parte del Splunk Universal Forwarder.
++ Conectarse al master por parte del Splunk Universal Forwarder.
+
 ## Levantar la arquitectura
 
 Nos situamos en la raíz del proyecto y ejecutamos el siguiente comando:
