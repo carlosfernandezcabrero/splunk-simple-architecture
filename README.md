@@ -28,6 +28,10 @@ Nos dirigimos a la url <http://127.0.0.1:8000>. Introducimos las credenciales:
 + Usuario: admin
 + Contraseña: admin1234
 
+## urls.txt
+
+Archivo que contiene diferentes versiones de cada tipo de instancia para su uso en el docker-compose.yml. Por favor, si la versión que desea utilizar no esta presente y conoce su url, haga una propuesta de cambio para añadir la.
+
 ## Notas
 
 + Recurso para generar los comandos de Docker: <https://docker-commands-generator.vercel.app/>
