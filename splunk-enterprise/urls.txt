@@ -1,1 +1,2 @@
 7.3.6 -> 7.3.6/linux/splunk-7.3.6-47d8552a4d84-Linux-x86_64.tgz
+8.0.6 -> 8.0.6/linux/splunk-8.0.6-152fb4b2bb96-Linux-x86_64.tgz
